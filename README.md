@@ -1,5 +1,4 @@
 # porcuPIne
-===========
 Raspberry Pi based central heating/boiler controller. Python based.
 
 Hardware: Thermostat (to be placed in usual central heating thermostat position) consisting of: RaspPi with attached, via GPIO, digital Dallas temperature sensor, and serial RF module. Future development: LCD display, 5 button menu navigation system.
